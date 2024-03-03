@@ -1,0 +1,17 @@
+a {
+  color: rgb(112, 0, 0);
+  font-size: 20px;
+  text-align: center;
+}
+
+body {
+  background-image: url(/img/BANNER_BEHANCE.jpg);
+}
+
+.sanpham p {
+  color: yellow;
+}
+
+div p {
+  color: red;
+}
